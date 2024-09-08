@@ -1,0 +1,12 @@
+{
+  "name": "test-renovate",
+  "version": "1.0.0",
+  "description": "A test project for Renovate bot",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "express": "4.16.1"
+  },
+  "devDependencies": {
+    "mocha": "6.2.2"
+  }
+}
