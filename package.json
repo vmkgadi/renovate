@@ -4,7 +4,7 @@
   "description": "A test project for Renovate bot",
   "dependencies": {
     "lodash": "4.17.21",
-    "express": "4.16.1"
+    "express": "4.21.1"
   },
   "devDependencies": {
     "mocha": "6.2.2"
